@@ -10,7 +10,11 @@ Dataset disimpan di PostgreSQL (localhost) dan diekstrak menggunakan SQL query y
 
 ### Variabel X
 senior_citizen = Apakah pelanggan tersebut warga lanjut usia atau bukan? (1: Ya, 0: Tidak)
+
+
 partner = Apakah pelanggan memiliki pasangan atau tidak? (1= Ya, 0 = Tidak)
+
+
 dependents = Apakah pelanggan memiliki tanggungan atau tidak? (1 = Ya, 0 = Tidak)
 phone_service = Apakah pelanggan memiliki layanan telepon atau tidak? (1 = Ya, 0 = Tidak)
 multiple_lines = Apakah pelanggan memiliki beberapa saluran telepon atau tidak (1 = Ya, 0 = Tidak)
