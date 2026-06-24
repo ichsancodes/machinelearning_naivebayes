@@ -10,20 +10,18 @@ Dataset disimpan di PostgreSQL (localhost) dan diekstrak menggunakan SQL query y
 
 ### Variabel X
 senior_citizen = Apakah pelanggan tersebut warga lanjut usia atau bukan? (1: Ya, 0: Tidak)  
-partner = Apakah pelanggan memiliki pasangan atau tidak? (1= Ya, 0 = Tidak)
-
-
-dependents = Apakah pelanggan memiliki tanggungan atau tidak? (1 = Ya, 0 = Tidak)
-phone_service = Apakah pelanggan memiliki layanan telepon atau tidak? (1 = Ya, 0 = Tidak)
-multiple_lines = Apakah pelanggan memiliki beberapa saluran telepon atau tidak (1 = Ya, 0 = Tidak)
-internet_service = Apakah pelanggan memiliki layanan internet? (1 = Ya, 0 = Tidak)
-online_security = Apakah pelanggan memiliki keamanan online atau tidak? (1 = Ya, 0 = Tidak)
-tech_support = Apakah pelanggan memiliki dukungan teknis atau tidak? (1 = Ya, 0 = Tidak)
-streaming_tv = Apakah pelanggan memiliki TV streaming atau tidak? (1 = Ya, 0 = Tidak)
-paperless_billing = Apakah pelanggan memiliki sistem penagihan tanpa kertas atau tidak? (1 = Ya, 0 = Tidak)
+partner = Apakah pelanggan memiliki pasangan atau tidak? (1= Ya, 0 = Tidak)  
+dependents = Apakah pelanggan memiliki tanggungan atau tidak? (1 = Ya, 0 = Tidak)  
+phone_service = Apakah pelanggan memiliki layanan telepon atau tidak? (1 = Ya, 0 = Tidak)  
+multiple_lines = Apakah pelanggan memiliki beberapa saluran telepon atau tidak (1 = Ya, 0 = Tidak)  
+internet_service = Apakah pelanggan memiliki layanan internet? (1 = Ya, 0 = Tidak)  
+online_security = Apakah pelanggan memiliki keamanan online atau tidak? (1 = Ya, 0 = Tidak)  
+tech_support = Apakah pelanggan memiliki dukungan teknis atau tidak? (1 = Ya, 0 = Tidak)  
+streaming_tv = Apakah pelanggan memiliki TV streaming atau tidak? (1 = Ya, 0 = Tidak)  
+paperless_billing = Apakah pelanggan memiliki sistem penagihan tanpa kertas atau tidak? (1 = Ya, 0 = Tidak)  
 
 ### Variabel y
-churn_label = Apakah customer churn atau tidak? (1 = churn, 0 = tidak churn)
+churn_label = Apakah customer churn atau tidak? (1 = churn, 0 = tidak churn)  
 
 data ini berjumlah 3.700 baris, dan semuanya bernilai 1 (Ya) atau 0 (Tidak)
 
